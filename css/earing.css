@@ -1,0 +1,345 @@
+#earing {
+  border: 0.6rem solid rgba(166, 0, 94, 0.347);
+}
+
+.color-black {
+  background: url(/img/palette/Black.png) no-repeat center / cover;
+}
+
+.color-black:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ black.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+
+.color-ruby {
+  background: url(/img/palette/Ruby.png) no-repeat center / cover;
+}
+
+.color-ruby:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ ruby.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+
+.color-red {
+  background: url(/img/palette/Red.png) no-repeat center / cover;
+}
+
+.color-red:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ red.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+
+.color-coral {
+  background: url(/img/palette/coral.png) no-repeat center / cover;
+}
+
+.color-coral:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ coral.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+
+.color-orange {
+  background: url(/img/palette/orange.png) no-repeat center / cover;
+}
+
+.color-orange:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ orange.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+
+.color-pumpkin {
+  background: url(/img/palette/pumpkin.png) no-repeat center / cover;
+}
+
+.color-pumpkin:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ pumpkin.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-salmon {
+  background: url(/img/palette/salmon.png) no-repeat center / cover;
+}
+
+.color-salmon:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ salmon.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-watermelon {
+  background: url(/img/palette/watermelon.png) no-repeat center / cover;
+}
+
+.color-watermelon:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ watermelon.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-fuschia {
+  background: url(/img/palette/Fuschia.png) no-repeat center / cover;
+}
+
+.color-fuschia:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ fushia.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-rouge {
+  background: url(/img/palette/rouge.png) no-repeat center / cover;
+}
+
+.color-rouge:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ rouge.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-pink {
+  background: url(/img/palette/Pink.png) no-repeat center / cover;
+}
+
+.color-pink:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ pink.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-lightpink {
+  background: url(/img/palette/Light\ Pink.png) no-repeat center / cover;
+}
+
+.color-lightpink:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ light\ pink.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-purple {
+  background: url(/img/palette/purple.png) no-repeat center / cover;
+}
+
+.color-purple:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ purple.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-lavender {
+  background: url(/img/palette/lavender.png) no-repeat center / cover;
+}
+
+.color-lavender:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ lavender.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-mauve {
+  background: url(/img/palette/mauve.png) no-repeat center / cover;
+}
+
+.color-mauve:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ mauve.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-lilac {
+  background: url(/img/palette/lilac.png) no-repeat center / cover;
+}
+
+.color-lilac:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ lilac.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-navy {
+  background: url(/img/palette/navy.png) no-repeat center / cover;
+}
+
+.color-navy:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ navy.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-blue {
+  background: url(/img/palette/blue.png) no-repeat center / cover;
+}
+
+.color-blue:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ blue.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-turquoise {
+  background: url(/img/palette/turquoise.png) no-repeat center / cover;
+}
+
+.color-turquoise:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ turquoise.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-lightblue {
+  background: url(/img/palette/Light\ Blue.png) no-repeat center / cover;
+}
+
+.color-lightblue:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ light\ blue.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-green {
+  background: url(/img/palette/green.png) no-repeat center / cover;
+}
+
+.color-green:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ green.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-olive {
+  background: url(/img/palette/olive.png) no-repeat center / cover;
+}
+
+.color-olive:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ olive.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-mint {
+  background: url(/img/palette/mint.png) no-repeat center / cover;
+}
+
+.color-mint:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ mint.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-pistachio {
+  background: url(/img/palette/pistachio.png) no-repeat center / cover;
+}
+
+.color-pistachio:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ pistachio.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-avocado {
+  background: url(/img/palette/avocado.png) no-repeat center / cover;
+}
+
+.color-avocado:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ avocado.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-yellow {
+  background: url(/img/palette/yellow.png) no-repeat center / cover;
+}
+
+.color-yellow:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ yellow.jpg) no-repeat
+    center / cover;
+  transition: all 0.4s;
+}
+.color-lime {
+  background: url(/img/palette/lime.png) no-repeat center / cover;
+}
+
+.color-lime:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ lime.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}
+.color-white {
+  background: url(/img/palette/white.png) no-repeat center / cover;
+}
+
+.color-white:hover {
+  height: 18rem;
+  width: 18rem;
+  border-radius: 50%;
+  background: url(/img/jewelry/earing/earings\ 6\ -\ white.jpg) no-repeat center /
+    cover;
+  transition: all 0.4s;
+}

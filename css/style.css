@@ -1,0 +1,246 @@
+/* MOBILE */
+.btn-mobile-nav {
+  border: none;
+  background: none;
+  cursor: pointer;
+
+  display: none;
+}
+
+.icon-mobile-nav {
+  height: 4.8rem;
+  width: 4.8rem;
+  color: rgb(253, 253, 253, 0.85);
+}
+
+.icon-mobile-nav[name="close-outline"] {
+  display: none;
+}
+
+/**************************/
+/* CTA SECTION */
+/**************************/
+
+.section-cta {
+  /* top / right / bottom / left */
+  /* padding: 9.6rem 0 12.8rem 0; */
+
+  /* top / horizontal / left */
+  padding: 10rem 2rem 20rem 2rem;
+}
+
+.cta {
+  display: grid;
+  /* 2/3 = 66.6% + 1/3 = 33.3% */
+  grid-template-columns: 3.5fr 2fr;
+
+  box-shadow: 0 2.4rem 4.8rem rgba(0, 0, 0, 0.15);
+  border-radius: 30px;
+  overflow: hidden;
+  background-color: black;
+}
+
+.cta-text-box {
+  padding: 7rem 6rem 8rem 7rem;
+  color: #333;
+}
+
+.cta .heading-secondary {
+  color: inherit;
+  margin-bottom: 3.2rem;
+}
+
+.cta h2 {
+  font-size: 5.6rem;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.cta p {
+  font-size: 2.2rem;
+  margin-bottom: 2rem;
+  color: white;
+}
+
+.cta-text {
+  font-size: 1.8rem;
+  line-height: 2.8rem;
+  margin-bottom: 4.8rem;
+}
+
+.cta-img-box {
+  background-image: linear-gradient(
+      to right bottom,
+      rgb(226, 191, 182, 0.1),
+      rgba(227, 224, 221, 0.2)
+    ),
+    url("../img/homepage/earings-gif-small.gif");
+  background-size: cover;
+  background-position: center;
+}
+
+.cta-form {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  column-gap: 3.2rem;
+  row-gap: 2.4rem;
+}
+
+.cta-form label {
+  display: block;
+  font-size: 1.6rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+  color: rgba(255, 255, 255, 0.7);
+}
+
+.cta-form input,
+.cta-form select {
+  width: 100%;
+  padding: 1.2rem;
+  font-size: 1.8rem;
+  font-family: inherit;
+  color: inherit;
+  border: none;
+  background-color: white;
+  border-radius: 9px;
+  box-shadow: 0 1px 2px rgba(0, 0, 0, 0.1);
+}
+
+.cta-form input::placeholder {
+  color: #aaa;
+}
+
+.cta *:focus {
+  outline: none;
+  box-shadow: 0 0 0 0.3rem rgba(251, 58, 122, 0.511);
+}
+
+.btn,
+.btn:link,
+.btn:visited {
+  display: inline-block;
+
+  text-decoration: none;
+  font-size: 2rem;
+  font-weight: 500;
+  padding: 1.5rem 3rem;
+  border-radius: 10px;
+
+  /* Only necessary for .btn */
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+
+  /* Put transition on original "state" */
+  /* transition: background-color 0.3s; */
+  transition: all 0.3s;
+}
+
+.btn--form {
+  background-color: #ba1588;
+  color: #fff;
+  align-self: end;
+  padding: 1.2rem;
+}
+
+.btn--form:hover {
+  background-color: #fc78bc;
+  color: rgb(255, 255, 255);
+}
+
+/**************************/
+/* FOOTER */
+/**************************/
+
+.footer {
+  padding: 6rem 0 0 0;
+  border-top: 0.2rem solid rgba(238, 238, 238, 0.2);
+  background-color: black;
+}
+
+.grid--footer {
+  justify-content: center;
+}
+
+.logo-col {
+  display: flex;
+  flex-direction: column;
+
+  align-items: center;
+  padding-bottom: 6rem;
+}
+
+.footer-logo {
+  display: block;
+
+  width: 3rem;
+}
+.footer-name {
+  display: flex;
+  font-size: 2.2rem;
+  font-weight: 400;
+  align-items: center;
+
+  text-decoration: none;
+  color: white;
+}
+.social-links {
+  list-style: none;
+  display: flex;
+  gap: 2rem;
+}
+
+.social-links:last-child {
+  gap: 0;
+}
+.social-icon {
+  height: 3rem;
+  width: 3rem;
+  fill: rgb(255, 255, 255);
+  margin-bottom: 2rem;
+}
+
+.copyright {
+  font-size: 1.7rem;
+  line-height: 2rem;
+  color: white;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+}
+
+.footer-heading {
+  font-size: 1.8rem;
+  font-weight: 500;
+  margin-bottom: 3rem;
+}
+
+.contacts {
+  font-style: normal;
+  font-size: 1.6rem;
+  line-height: 1.6;
+}
+
+.address {
+  margin-bottom: 2.4rem;
+}
+
+.footer-nav {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  gap: 2.4rem;
+}
+
+.footer-link:link,
+.footer-link:visited {
+  text-decoration: none;
+  font-size: 1.6rem;
+  color: #767676;
+  transition: all 0.3s;
+}
+
+.footer-link:hover,
+.footer-link:active {
+  color: #555;
+}
