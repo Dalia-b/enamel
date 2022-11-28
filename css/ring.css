@@ -55,7 +55,7 @@
 }
 
 .color-orange {
-  background: url(/img/palette/orange.png) no-repeat center / cover;
+  background: url(/img/palette/Orange.png) no-repeat center / cover;
 }
 
 .color-orange:hover {
@@ -68,7 +68,7 @@
 }
 
 .color-pumpkin {
-  background: url(/img/palette/pumpkin.png) no-repeat center / cover;
+  background: url(/img/palette/Pumpkin.png) no-repeat center / cover;
 }
 
 .color-pumpkin:hover {
@@ -82,7 +82,6 @@
 .color-salmon {
   background: url(/img/palette/salmon.png) no-repeat center / cover;
 }
-
 .color-salmon:hover {
   height: 18rem;
   width: 18rem;
@@ -94,7 +93,6 @@
 .color-watermelon {
   background: url(/img/palette/watermelon.png) no-repeat center / cover;
 }
-
 .color-watermelon:hover {
   height: 18rem;
   width: 18rem;
@@ -106,7 +104,6 @@
 .color-fuschia {
   background: url(/img/palette/Fuschia.png) no-repeat center / cover;
 }
-
 .color-fuschia:hover {
   height: 18rem;
   width: 18rem;
@@ -118,7 +115,6 @@
 .color-rouge {
   background: url(/img/palette/rouge.png) no-repeat center / cover;
 }
-
 .color-rouge:hover {
   height: 18rem;
   width: 18rem;
@@ -130,7 +126,6 @@
 .color-pink {
   background: url(/img/palette/Pink.png) no-repeat center / cover;
 }
-
 .color-pink:hover {
   height: 18rem;
   width: 18rem;
@@ -142,7 +137,6 @@
 .color-lightpink {
   background: url(/img/palette/Light\ Pink.png) no-repeat center / cover;
 }
-
 .color-lightpink:hover {
   height: 18rem;
   width: 18rem;
@@ -152,9 +146,8 @@
   transition: all 0.4s;
 }
 .color-purple {
-  background: url(/img/palette/purple.png) no-repeat center / cover;
+  background: url(/img/palette/Purple.png) no-repeat center / cover;
 }
-
 .color-purple:hover {
   height: 18rem;
   width: 18rem;
@@ -164,9 +157,8 @@
   transition: all 0.4s;
 }
 .color-lavender {
-  background: url(/img/palette/lavender.png) no-repeat center / cover;
+  background: url(/img/palette/Lavender.png) no-repeat center / cover;
 }
-
 .color-lavender:hover {
   height: 18rem;
   width: 18rem;
@@ -178,7 +170,6 @@
 .color-mauve {
   background: url(/img/palette/mauve.png) no-repeat center / cover;
 }
-
 .color-mauve:hover {
   height: 18rem;
   width: 18rem;
@@ -190,7 +181,6 @@
 .color-lilac {
   background: url(/img/palette/lilac.png) no-repeat center / cover;
 }
-
 .color-lilac:hover {
   height: 18rem;
   width: 18rem;
@@ -200,9 +190,8 @@
   transition: all 0.4s;
 }
 .color-navy {
-  background: url(/img/palette/navy.png) no-repeat center / cover;
+  background: url(/img/palette/Navy.png) no-repeat center / cover;
 }
-
 .color-navy:hover {
   height: 18rem;
   width: 18rem;
@@ -212,9 +201,8 @@
   transition: all 0.4s;
 }
 .color-blue {
-  background: url(/img/palette/blue.png) no-repeat center / cover;
+  background: url(/img/palette/Blue.png) no-repeat center / cover;
 }
-
 .color-blue:hover {
   height: 18rem;
   width: 18rem;
@@ -224,9 +212,8 @@
   transition: all 0.4s;
 }
 .color-turquoise {
-  background: url(/img/palette/turquoise.png) no-repeat center / cover;
+  background: url(/img/palette/Turquoise.png) no-repeat center / cover;
 }
-
 .color-turquoise:hover {
   height: 18rem;
   width: 18rem;
@@ -238,7 +225,6 @@
 .color-lightblue {
   background: url(/img/palette/Light\ Blue.png) no-repeat center / cover;
 }
-
 .color-lightblue:hover {
   height: 18rem;
   width: 18rem;
@@ -248,9 +234,8 @@
   transition: all 0.4s;
 }
 .color-green {
-  background: url(/img/palette/green.png) no-repeat center / cover;
+  background: url(/img/palette/Green.png) no-repeat center / cover;
 }
-
 .color-green:hover {
   height: 18rem;
   width: 18rem;
@@ -260,9 +245,8 @@
   transition: all 0.4s;
 }
 .color-olive {
-  background: url(/img/palette/olive.png) no-repeat center / cover;
+  background: url(/img/palette/Olive.png) no-repeat center / cover;
 }
-
 .color-olive:hover {
   height: 18rem;
   width: 18rem;
@@ -272,9 +256,8 @@
   transition: all 0.4s;
 }
 .color-mint {
-  background: url(/img/palette/mint.png) no-repeat center / cover;
+  background: url(/img/palette/Mint.png) no-repeat center / cover;
 }
-
 .color-mint:hover {
   height: 18rem;
   width: 18rem;
@@ -284,9 +267,8 @@
   transition: all 0.4s;
 }
 .color-pistachio {
-  background: url(/img/palette/pistachio.png) no-repeat center / cover;
+  background: url(/img/palette/Pistachio.png) no-repeat center / cover;
 }
-
 .color-pistachio:hover {
   height: 18rem;
   width: 18rem;
@@ -298,7 +280,6 @@
 .color-avocado {
   background: url(/img/palette/avocado.png) no-repeat center / cover;
 }
-
 .color-avocado:hover {
   height: 18rem;
   width: 18rem;
@@ -308,9 +289,8 @@
   transition: all 0.4s;
 }
 .color-yellow {
-  background: url(/img/palette/yellow.png) no-repeat center / cover;
+  background: url(/img/palette/Yellow.png) no-repeat center / cover;
 }
-
 .color-yellow:hover {
   height: 18rem;
   width: 18rem;
@@ -322,7 +302,6 @@
 .color-lime {
   background: url(/img/palette/lime.png) no-repeat center / cover;
 }
-
 .color-lime:hover {
   height: 18rem;
   width: 18rem;
@@ -332,9 +311,8 @@
   transition: all 0.4s;
 }
 .color-white {
-  background: url(/img/palette/white.png) no-repeat center / cover;
+  background: url(/img/palette/White.png) no-repeat center / cover;
 }
-
 .color-white:hover {
   height: 18rem;
   width: 18rem;
