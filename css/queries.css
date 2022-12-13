@@ -261,7 +261,7 @@
   }
 
   .about-left {
-    width: 40rem;
+    width: 38rem;
     height: 60rem;
     background: url(/img/homepage/about-img.jpeg) no-repeat center / cover;
     border-radius: 2.4rem;
@@ -296,6 +296,12 @@
     margin: 2rem 5rem;
   }
 
+  .section-palette {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   .text-palette {
     font-size: 5.5rem;
     font-weight: 800;
@@ -309,9 +315,9 @@
   }
 
   .palette-img {
-    height: 420px;
-    width: 850px;
-    transform: rotate(90deg) translate(10%, 60%);
+    height: auto;
+    width: 120vmax;
+    transform: rotate(90deg);
   }
 
   .section-palette {
@@ -333,7 +339,7 @@
   }
 
   .quality-right {
-    width: 40rem;
+    width: 38rem;
     height: 60rem;
     background: url(/img/homepage/quality-img.jpeg) no-repeat center / cover;
     border-radius: 2.4rem;
@@ -390,7 +396,7 @@
   }
 
   .cta-img-box {
-    height: 60rem;
+    height: 55rem;
     width: 100vw;
     background: url(/img/homepage/earings-gif-small.gif) no-repeat center /
       cover;
