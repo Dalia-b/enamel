@@ -12,7 +12,7 @@ const btnNavEl = document.querySelector(".btn-mobile-nav");
 const NavEl = document.querySelector(".nav-bar");
 
 btnNavEl.addEventListener("click", function () {
-  NavEl.classList.toggle("nav-open");
+  NavEl.classList.toggle("nav-trial");
 });
 
 ///////////////////////////////////////////////////////////
@@ -46,7 +46,7 @@ allLinks.forEach(function (link) {
 
     // Close mobile naviagtion
     if (link.classList.contains("nav-list-link"))
-      headerEl.classList.toggle("nav-open");
+      headerEl.classList.toggle("nav-trial");
   });
 });
 
