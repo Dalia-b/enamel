@@ -63,7 +63,13 @@ h1 {
   padding-bottom: 4rem;
   display: flex;
   flex-direction: column;
-  gap: 8rem;
+  gap: 2rem;
+}
+
+.palette-subheading-mobile {
+  font-size: 2rem;
+  margin-bottom: 3rem;
+  opacity: 0;
 }
 
 .palette {

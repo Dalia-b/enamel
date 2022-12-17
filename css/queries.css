@@ -44,6 +44,11 @@
   .quality-right {
     margin-top: 25rem;
   }
+  .palette-subheading-mobile {
+    font-size: 2rem;
+    margin-bottom: 3rem;
+    opacity: 100%;
+  }
 }
 
 /**************************/
@@ -261,7 +266,7 @@
   }
 
   .about-left {
-    width: 38rem;
+    width: 40rem;
     height: 60rem;
     background: url(/img/homepage/about-img.jpeg) no-repeat center / cover;
     border-radius: 2.4rem;
@@ -339,7 +344,7 @@
   }
 
   .quality-right {
-    width: 38rem;
+    width: 40rem;
     height: 60rem;
     background: url(/img/homepage/quality-img.jpeg) no-repeat center / cover;
     border-radius: 2.4rem;
@@ -440,7 +445,7 @@
   }
   .section-palette-color,
   .jewelry-type {
-    gap: 5rem;
+    gap: 3rem;
   }
 
   .section-palette-color h1 {
