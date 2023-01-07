@@ -191,6 +191,22 @@
   gap: 2rem;
 }
 
+.social-link {
+  list-style: none;
+  display: flex;
+  gap: 1rem;
+}
+
+.phone-number {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  font-size: 2.2rem;
+  color: white;
+}
+
 .social-links:last-child {
   gap: 0;
 }

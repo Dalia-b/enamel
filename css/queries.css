@@ -319,6 +319,20 @@
     z-index: 1;
   }
 
+  .text-palette:hover {
+    transition: all 0.5s;
+    transform: scale(1.1) center;
+    font-size: 6rem;
+    width: 52rem;
+  }
+
+  .text-palette:active {
+    transition: all 0.5s;
+    transform: scale(1.1) center;
+    font-size: 5.5rem;
+    width: 42rem;
+  }
+
   .palette-img {
     height: auto;
     width: 120vmax;
